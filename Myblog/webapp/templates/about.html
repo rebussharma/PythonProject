@@ -1,0 +1,24 @@
+
+{% extends "layout.html" %}
+{% block content %}
+
+	<h1> About Page</h1>
+
+{% endblock %}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	{% if title %}
+		<title>About - {{title}}</title>
+
+	{% else %}
+		<title>About</title>
+
+	{% endif %}
+</head>
+<body>
+<h1> About Page</h1>
+</body>
+</html>

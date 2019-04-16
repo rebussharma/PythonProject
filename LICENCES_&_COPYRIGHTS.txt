@@ -1,0 +1,10 @@
+Licence: Corey Schafer
+Copyrights: Corey Schafer
+
+This project is a writted by Ribash Sharma 
+for learning purposes by following tutorial 
+of Mr. Schafer. 
+All rights reserved to Mr. Schafer
+
+Link to tutorial:
+https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH
